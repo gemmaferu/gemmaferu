@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there :wave:
+  Hi there!
 </h1>
 
 <h3 align="center">
