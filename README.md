@@ -1,10 +1,6 @@
-<p align="center">
-  
-  # Hi there 👋
-  
-  **I am a PhD student at Aarhus University, Aarhus (Denmark)**
+# Hi there 👋
 
-</p>
+**I am a PhD student at Aarhus University, Aarhus (Denmark)**
 
 :brain:  I study the spatial and temporal brain correlates of musical memory
 
