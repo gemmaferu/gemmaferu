@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I am a PhD student at Aarhus University, Aarhus (Denmark)
+  I am a PhD student at Aarhus University :denmark:
 </h3>
 
 :brain:  I study the spatial and temporal brain correlates of auditory (musical) memory
