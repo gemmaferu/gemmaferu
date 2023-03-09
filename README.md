@@ -1,12 +1,16 @@
-# Hi there 👋
+<h1 align="center">
+  Hi there :wave:
+</h1>
 
-**I am a PhD student at Aarhus University, Aarhus (Denmark)**
+<h3 align="center">
+  I am a PhD student at Aarhus University, Aarhus (Denmark)
+</h3>
 
 :brain:  I study the spatial and temporal brain correlates of musical memory
 
 :microscope: I use magnetoencephalography (MEG), magnetic resonance imaging (MRI) and behavioral methods
 
-:computer: I work on MATLAB, Python and R
+:computer: I use MATLAB, Python and R
 
 
 <!--
