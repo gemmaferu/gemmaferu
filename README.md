@@ -10,7 +10,7 @@
 
 :microscope: I use magnetoencephalography (MEG), magnetic resonance imaging (MRI) and behavioral methods
 
-:computer: I use MATLAB, Python and R
+:computer: I work with MATLAB, Python and R
 
 
 <!--
