@@ -3,14 +3,14 @@
 </h1>
 
 <h3 align="center">
-  I am a postdoc at Aarhus University :denmark:
+  I'm a postdoc at Aarhus University :denmark:
 </h3>
 
 :brain:  I study the spatial and temporal brain correlates of auditory (musical) memory
 
 :microscope: I use magnetoencephalography (MEG), magnetic resonance imaging (MRI) and behavioral methods
 
-:computer: I work with MATLAB, Python and R
+:computer: I (try to) work with MATLAB, R, and Python
 
 
 <!--
